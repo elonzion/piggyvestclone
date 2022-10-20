@@ -1,0 +1,354 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.piggy {
+	padding-top:20px;
+	padding-left:20px;
+	padding-bottom:20px;
+	padding-right:20px;
+	display:flex;
+	gap:80px;
+    flex-wrap:wrap;
+    justify-content:center;
+   align-items:center;
+}
+
+.piggy > div:nth-child(1){
+   max-width: 480px;
+}
+
+.piggy> div:nthchild(2){
+  max-width: 600px;
+}
+
+.ton {
+	padding-top: 15px;
+	padding-bottom:15px;
+	padding-right:30px;
+	padding-left:30px;
+	font-size:17px;
+	background-color:black;
+	border-radius:7px;
+	font-weight:600;
+	border:none;
+	margin-bottom:25px;
+	color:white;
+}
+
+.tom {
+	padding: 15px 30px 15px 30px;
+	border:0.5px solid lightgrey;
+	border-radius: 7px;
+	background: none;
+	font-weight:400;
+	font-size: 17px;
+    margin-right:20px;
+}
+
+.h {
+  margin-bottom: 25px;
+  font-weight: bolder;
+  font-size: 64px;
+
+}
+
+.p {
+	margin-bottom: 25px;
+}
+
+.img {
+display:flex;
+padding: 20px 20px 20px 20px;
+gap: 30px;
+margin-bottom: 25px;
+display: flex;
+align-items: center;
+flex-wrap:wrap ;
+justify-content: center;
+margin-top:30px;
+}
+
+.img>div :nth-child(1){
+max-width:600px;
+}
+
+.img> div:nth-child(2){
+	max-width:600px;
+}
+
+.tan {
+	margin-bottom: 15px;
+}
+
+.tim {
+	margin-bottom: 15px;
+}
+
+
+.r {
+	margin-bottom: 15px;
+}
+
+.pie {
+	margin-bottom:
+}
+
+.r {
+	font-size: 40px;
+	font-weight:bolder ;
+}
+
+.pie {
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.lass {
+	padding: 40px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.lass> div:nth-child(1){
+	max-width: 325px;
+	padding:20px;
+
+}
+
+.lass> div:nth-child(2){
+	background-color:rgba(0, 0, 0, 0.05);
+	max-width: 325px;
+	padding:20px;
+	border-radius: 6px;
+	text-align: center;
+}
+
+
+.lass> div:nth-child(3){
+	background-color:rgba(0, 0, 0, 0.05) ;
+	max-width: 325px;
+	padding:20px;
+	border-radius: 6px;
+	text-align: center;
+}
+
+.lass> div:nth-child(4){
+	background-color: rgba(0, 0, 0, 0.05);
+	max-width: 325px;
+	padding:20px;
+	border-radius: 6px;
+	text-align: center;
+
+}
+
+.lass> div:nth-child(5){
+	background-color:rgba(0, 0, 0, 0.05);
+	max-width: 325px;
+	padding:20px;
+	border-radius: 6px;
+	text-align: center;
+}
+
+.save {
+	width: 60px;
+
+}
+
+.iphoney {
+	width: 200px;
+	margin-left: 200px;
+}
+
+.tik {
+	background-color: lightgrey;
+	color: purple;
+	border: none;
+	padding: 15px 40px 15px 40px;
+	border-radius: 40px;
+	display:flex;
+	margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.pig {
+	display: flex;
+	gap: 40px;
+
+}
+
+.pig> div:nth-child(2){
+	
+}
+
+.arc {
+	font-weight: bolder;
+	margin-bottom: 20px;
+	font-size: 30px;
+
+}
+
+.pot {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	align-items: center;
+}
+
+.aaaa {
+	font-size:20px;
+}
+
+.saver {
+	background-color: blue;
+	color: white;
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+}
+.meet {
+	font-size:40px ;
+	margin-left: 30px;
+
+}
+
+
+.blue {
+color: red;
+}
+
+.mg {
+width: 400px;
+}
+
+.rip {
+	margin-left: 30px;
+}
+
+.dibs {
+	padding: 30px;
+	max-width: 500px;
+}
+
+.top {
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	padding: 15px 15px 15px 15px;
+	margin-bottom: 10px;
+}
+
+.toc {
+	background:none;
+	color: black;
+	border:0.5px solid lightgrey;
+	font-weight: bold;
+	padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+
+}
+
+.cus {
+	font-weight:bold;
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+
+.llon {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.iv {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+    text-align: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+   padding: 20px 20px 20px 20px;
+   gap: 20px;
+}
+
+.GTA {
+	margin-bottom: 90px;
+}
+
+.mill {
+	margin-top: 40px;
+}
+
+.guard {
+	width: 200px;
+}
+
+.tech {
+	width: 200px;
+}
+
+
+.crunch {
+	width: 200px;
+}
+
+
+.peo{
+ display: inline-flex;
+ margin-left: auto;
+ margin-right: auto;
+ gap: 5px;
+ max-width: 700px;
+ margin-left:100px;
+ padding: 30px 30px 30px 30px;
+}
+
+.tion {
+background-color:lightblue;
+
+}
+
+.feau {
+font-size: 40px;
+margin-left: 100px;
+margin-bottom: 30px;
+}
+
+.lu {
+	margin-bottom: 20px;
+	font-weight: 300px;
+}
+
+.ban {
+	font-weight: 300px;
+	
+}
+
+.cla {
+	display:flex ;
+	gap: 80px;
+	margin-left: 20px;
+	justify-content:space-evenly;
+}
+
+.dir {
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+.viv {
+	margin-left: 200px;
+	color: blue;
+}
+
+ul {
+	list-style: none;
+}
